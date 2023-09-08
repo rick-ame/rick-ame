@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rick-ast
+- 👋 Hi, I’m Rick(@rick-ast)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Next.js
 
