@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rick(@rick-ast)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Next.js
 
 <!---
 rick-ast/rick-ast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
