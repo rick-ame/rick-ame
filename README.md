@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rick(@rick-ast)
+- 👋 Hi, I’m Rick(@rick-ame)
 - 👀 I’m interested in web development
 
 <!---
